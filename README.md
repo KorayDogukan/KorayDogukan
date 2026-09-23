@@ -6,15 +6,15 @@ I am a Computer Science graduate and Associate IT Specialist at **Pimsa Otomotiv
 
 - Hardware & Embedded: ESP32, Microcontroller Firmware, Sensor Integration, Actuators & Motor Control
 
--Protocols & Architecture: MQTT, REST APIs, Relational Data Modeling, Industrial Process Automation
+- Protocols & Architecture: MQTT, REST APIs, Relational Data Modeling, Industrial Process Automation
 
--Enterprise & Data: ERP Logic Development, Database Optimization (SQL Server)
+- Enterprise & Data: ERP Logic Development, Database Optimization (SQL Server)
 
 #### 📌 What I'm Currently Working On
--Designing firmware and telemetry architectures for factory automation prototypes.
+- Designing firmware and telemetry architectures for factory automation prototypes.
 
--Developing and maintaining operational business logic and enterprise database systems.
+- Developing and maintaining operational business logic and enterprise database systems.
 
--Preparing production-ready proof-of-concept projects combining hardware with modern backend services.
+- Preparing production-ready proof-of-concept projects combining hardware with modern backend services.
 
 #### 📫 Connect with me: LinkedIn www.linkedin.com/in/unluko

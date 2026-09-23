@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Koray Doğukan Ünlü 👋
 
-<!--
-**KorayDogukan/KorayDogukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate and Associate IT Specialist at **Pimsa Otomotiv**, focusing on the intersection of industrial software, database architectures, and embedded IoT systems.
+#### 🛠️ Tech Stack & Engineering Focus
+- Languages: C / C++, C# (.NET), SQL
 
-Here are some ideas to get you started:
+- Hardware & Embedded: ESP32, Microcontroller Firmware, Sensor Integration, Actuators & Motor Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Protocols & Architecture: MQTT, REST APIs, Relational Data Modeling, Industrial Process Automation
+
+-Enterprise & Data: ERP Logic Development, Database Optimization (SQL Server)
+
+#### 📌 What I'm Currently Working On
+-Designing firmware and telemetry architectures for factory automation prototypes.
+
+-Developing and maintaining operational business logic and enterprise database systems.
+
+-Preparing production-ready proof-of-concept projects combining hardware with modern backend services.
+
+#### 📫 Connect with me: LinkedIn www.linkedin.com/in/unluko
